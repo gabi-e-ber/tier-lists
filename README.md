@@ -1,6 +1,6 @@
 # 👫 Nossas Tier List como Casal 👫
 
-Bem-vindos ao repositório da nossa **Tier List de Casal**! Aqui, nós (eu e meu namorado) classificamos várias coisas que amamos e odiamos, desde comidas, filmes, lugares que visitamos até atividades do dia a dia.
+Bem-vindos ao repositório da nossa **Tier List de Casal**! Aqui, nós [@gabriellearruda](https://github.com/gabriellearruda) e [@bcbernardo](https://github.com/purnasth) classificaremos várias coisas que amamos e odiamos, desde comidas, filmes, lugares que visitamos até atividades do dia a dia.
 
 ## 📋 Sobre
 
@@ -24,7 +24,7 @@ Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICE
 
 ## 📞 Contato
 
-Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para abrir uma issue ou entrar em contato conosco diretamente.
+Se você tiver alguma dúvida ou *sugestão de Tier List* (por favor), sinta-se à vontade para abrir uma issue ou entrar em contato conosco diretamente.
 
 ---
 
